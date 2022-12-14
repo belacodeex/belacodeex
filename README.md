@@ -5,7 +5,7 @@
 🌱 Foco em desenvolvimento Web Front-End 
 
 
-<div align="center">
+<div style="display: inline_block"><br>
   <a href="https://github.com/belacodeex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belacodeex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belacodeex&layout=compact&langs_count=7&theme=dracula"/>
