@@ -5,16 +5,16 @@
 🌱 Foco em desenvolvimento Web Front-End 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belacodeex&show_icons=true&theme=radical)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belacodeex&layout=compact&langs_count=7&theme=dracula"/>
+ 
+ ## Tecnologias utilizadas até o momento:
 
- 
- ## Tecnologias usadas até agora 
- 
  <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
+ 
+ ![080718c3c5f3a56249a2ee3a825221bd (3)](https://user-images.githubusercontent.com/107327264/210788802-7b66f245-35f1-4c58-a214-b9a2aea45f1f.gif)
  
  ## Me acompanhe por outras plataformas 🚀
 <div>
