@@ -3,8 +3,6 @@
 💻 Atualente estudo Análise e Desenvolvimento - 2º Semestre
 <br>
 🌱 Foco em desenvolvimento Web Front-End 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belacodeex&show_icons=true&theme=radical)
  
  ## Tecnologias utilizadas até o momento:
 
